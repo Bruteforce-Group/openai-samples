@@ -4,3 +4,4 @@ azure-identity
 azure-keyvault-secrets
 requests_oauthlib
 azure-cosmos
+aiohttp>=3.8.5 # not directly required, pinned by Snyk to avoid a vulnerability
