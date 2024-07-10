@@ -9,3 +9,4 @@ azure-keyvault-secrets
 requests_oauthlib
 tenacity
 azure-cosmos
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
